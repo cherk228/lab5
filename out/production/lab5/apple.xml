@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<name>Яблоко</name>
+	<coordinates>
+		<x>355</x>
+		<y>732</y>
+	</coordinates>
+	<price>100</price>
+	<manufactureCost>38</manufactureCost>
+	<unitOfMeasure>KILOGRAMS</unitOfMeasure>
+	<person>
+		<name>Сурен</name>
+		<height>150</height>
+		<eyeColor>GREEN</eyeColor>
+		<hairColor>BROWN</hairColor>
+		<nationality>INDIA</nationality>
+		<location>
+			<x>384.64</x>
+			<y>8954.105</y>
+			<z>5092</z>
+			<name>Склад</name>
+		</location>
+	</person>
+	</product>
