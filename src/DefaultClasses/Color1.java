@@ -1,3 +1,5 @@
+package DefaultClasses;
+
 public enum Color1 {
     GREEN,
     YELLOW,

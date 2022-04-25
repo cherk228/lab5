@@ -1,3 +1,5 @@
+package DefaultClasses;
+
 public class Location {
     Location(Double x, Float y, long z, String name){
         this.name = name;

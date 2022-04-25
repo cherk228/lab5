@@ -1,7 +1,12 @@
+package DefaultClasses;
+
+import DefaultClasses.Coordinates;
+import DefaultClasses.Person;
+
 import java.time.LocalDateTime;
 
 public class Product {
-    Product(long id, String name,Coordinates coordinates, java.time.LocalDateTime creationDate, Integer price, Double manufactureCost, UnitOfMeasure unitOfMeasure, Person owner ){
+    Product(long id, String name, Coordinates coordinates, java.time.LocalDateTime creationDate, Integer price, Double manufactureCost, UnitOfMeasure unitOfMeasure, Person owner ){
         this.id = id;
         this.name = name;
         this.coordinates = coordinates;

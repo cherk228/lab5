@@ -1,3 +1,5 @@
+package DefaultClasses;
+
 public class Coordinates {
     Coordinates(Long x, Long y){
         this.x = x;

@@ -1,8 +1,12 @@
-public class Cmd_help  implements Command {
+package Commands;
+
+import Exeptions.WrongAmountOfElementsInCommandExeption;
+
+public class InfoCommand implements Command {
 
     private CommandBase commandBase;
 
-    public Cmd_help(CommandBase commandBase) {
+    public InfoCommand(CommandBase commandBase) {
         this.commandBase = commandBase;
     }
 

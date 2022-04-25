@@ -1,3 +1,9 @@
+package DefaultClasses;
+
+import DefaultClasses.Color1;
+import DefaultClasses.Color2;
+import DefaultClasses.Country;
+
 public class Person {
     Person(String name, Long height, Color1 eyeColor, Color2 haircolor, Country nationality, Location location){
         this.eyeColor = eyeColor;

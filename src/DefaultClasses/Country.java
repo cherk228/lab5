@@ -1,3 +1,5 @@
+package DefaultClasses;
+
 public enum Country {
     RUSSIA,
     FRANCE,
